@@ -34,6 +34,16 @@ Our web applications come with a wide range of features, including but not limit
 - Scalable and maintainable codebase
 - API integration with third-party services
 - and much more!
+  
+## License
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute our code, but we appreciate attribution back to Godevs.
+
+---
+
+Let's make the web better together! If you have any questions, need support, or are interested in collaborating with us, feel free to [contact us](mailto:godevs04@gmail.com).
+
+Thank you for choosing Godevs for your web application needs!
+
 
 Feel free to explore our codebase to see how we implement these features in practice.
 
